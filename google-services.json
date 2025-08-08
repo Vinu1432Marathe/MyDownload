@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826679643472",
+    "project_id": "es-collab-apps",
+    "storage_bucket": "es-collab-apps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826679643472:android:bd669d2dfb92f8a0e0b055",
+        "android_client_info": {
+          "package_name": "com.video.download.vidlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqpNI162fFSEwDdNu7vWXsx36g4xX2dFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
